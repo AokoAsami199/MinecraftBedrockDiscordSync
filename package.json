@@ -2,7 +2,7 @@
   "name": "MinecraftBedrockDiscordSync",
   "version": "1.0.0",
   "description": "Made by Aoko",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "compile": "tsc",
     "start": "node dist/index.js"
